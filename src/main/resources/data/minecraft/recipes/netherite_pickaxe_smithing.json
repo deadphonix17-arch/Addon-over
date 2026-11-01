@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "tag": "overgeared_buffed_gear:never_craftable"
+    }
+  ],
+  "result": {
+    "item": "minecraft:netherite_pickaxe"
+  }
+}

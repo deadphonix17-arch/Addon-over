@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "overgeared_buffed_gear:diamond_helmet",
+    "overgeared_buffed_gear:diamond_chestplate",
+    "overgeared_buffed_gear:diamond_leggings",
+    "overgeared_buffed_gear:diamond_boots",
+    "overgeared_buffed_gear:netherite_helmet",
+    "overgeared_buffed_gear:netherite_chestplate",
+    "overgeared_buffed_gear:netherite_leggings",
+    "overgeared_buffed_gear:netherite_boots"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.buffedgear.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LootTableReplaceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

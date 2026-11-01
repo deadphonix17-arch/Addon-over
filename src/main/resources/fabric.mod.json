@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "overgeared_buffed_gear",
+  "version": "${version}",
+  "name": "Overgeared: Buffed Gear",
+  "description": "Addon for Overgeared. Replaces vanilla diamond and netherite gear with buffed versions obtained via Overgeared's smithing chain.",
+  "authors": ["Your Name"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.buffedgear.BuffedGearMod"]
+  },
+  "mixins": ["overgeared_buffed_gear.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "overgeared": "*"
+  }
+}
